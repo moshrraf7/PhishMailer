@@ -3,9 +3,7 @@
 # PhishMailer
 
 
-**Coded By BiZken**
-
-Special Thanks To Fanny Hasbi For helping Me With The Code Structure: https://github.com/fannyhasbi 
+**Coded By mosu**
 
 PhishMailer Will Help You To Create Professional Phishing Emails Fast And Easy
 
